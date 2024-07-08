@@ -21,7 +21,8 @@ Shazia Clinic Hospital is a comprehensive hospital management system designed to
 
 ## Installation
 ### Prerequisites
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 
 ### Steps
