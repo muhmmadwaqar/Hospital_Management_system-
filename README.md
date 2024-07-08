@@ -26,7 +26,38 @@ Shazia Clinic Hospital is a comprehensive hospital management system designed to
 
 ### Steps
 1. **Clone the repository**:
-   ```sh
    git clone https://github.com/muhmmadwaqar/Shazia-Clinic-Hospital-.git
-   cd Shazia-Clinic-Hospital-
-﻿# Shazia-Clinic-Hospital-
+2 )Install dependencies and configure the environment:
+   npm install
+
+3) # Create a .env file in the root directory and add the following:
+echo "MONGO_URI=your_mongodb_uri" >> .env
+echo "JWT_SECRET=your_jwt_secret" >> .env
+4)  Run the application:
+        ** npm start**
+5) Usage
+Admin Panel: Accessible at /admin, where administrators can manage the entire system.
+Doctor Portal: Accessible at /doctor, where doctors can view and manage their appointments and patient records.
+Patient Portal: Accessible at /patient, where patients can view their records and manage appointments.
+Contributing
+We welcome contributions! Please follow these steps to contribute:
+
+Fork the repository.
+Create a new branch: git checkout -b my-feature-branch
+Make your changes and commit them: git commit -m 'Add new feature'
+Push to the branch: git push origin my-feature-branch
+Submit a pull request.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For questions or support, please contact:
+
+Muhammad Waqar
+Email: itswaqarmalik11@gmail.com
+Feel free to reach out if you have any questions or need further assistance.
+
+This README was generated with ❤️ by Muhammad Waqar
+
+
+
