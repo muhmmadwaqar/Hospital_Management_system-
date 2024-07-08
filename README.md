@@ -28,6 +28,8 @@ Shazia Clinic Hospital is a comprehensive hospital management system designed to
 ### Steps
 1. **Clone the repository**:
    git clone https://github.com/muhmmadwaqar/Shazia-Clinic-Hospital-.git
+
+   
 2 )Install dependencies and configure the environment:
    npm install
 
