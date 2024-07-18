@@ -11,7 +11,7 @@ Shazia Clinic Hospital is a comprehensive hospital management system designed to
 - [Contact](#contact)
 
 ## Features
-- **Patient Management**: Manage patient records, appointments, and history.
+- **Patient Management**: Manage patient records, appointments, and history of patient.
 - **Doctor Management**: Schedule and manage doctor appointments and information.
 - **Billing System**: Handle patient billing and payments.
 - **Inventory Management**: Track and manage medical inventory and supplies.
