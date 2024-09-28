@@ -67,18 +67,6 @@
 
 ---
 
-## Contributing
-
-We welcome contributions from the community. To contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-feature-branch`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push your branch: `git push origin my-feature-branch`.
-5. Submit a pull request.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
